@@ -1,1 +1,2 @@
-# ChemistryC-
+# chemistryapp
+Chemistry Application for Calculations
